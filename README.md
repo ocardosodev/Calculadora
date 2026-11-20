@@ -1,7 +1,8 @@
 # Calculadora
-Autor: António Ferreira Martins Cardoso Tecnologias: HTML, CSS e JavaScript Categoria: Front-end Development
+Autor: António Cardoso
+Tecnologias: HTML, CSS e JavaScript Categoria: Front-end Development
 
-# Calculadora
+# Technologies
 
 A simple calculator developed using:
 
@@ -11,7 +12,7 @@ A simple calculator developed using:
 
 ## Author
 
-António Cardoso
+António Ferreira Martins Cardoso
 
 ## Copyright
 
