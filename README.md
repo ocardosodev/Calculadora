@@ -4,9 +4,13 @@ Tecnologias: HTML, CSS e JavaScript Categoria: Front-end Development
 
 # Social Usernames
 @ocardosodev - GitHub
+
 @ocardosodev - YouTube
+
 @s7ney00 - Tiktok
+
 @s7ney - Instagram
+
 @António Ferreira Martins Cardoso - Facebook
 
 # Technologies
