@@ -2,7 +2,7 @@
 Autor: António Cardoso (ocardosodev)
 Tecnologias: HTML, CSS e JavaScript Categoria: Front-end Development
 
-#Social Usernames
+# Social Usernames
 @ocardosodev - GitHub
 @ocardosodev - YouTube
 @s7ney00 - Tiktok
